@@ -16,7 +16,7 @@ atomname1               P
 resname2                POPG
 atomname2               P
 solvent                 SOL
-ions               	    NA,CL
+ions                    NA,CL
 number_of_threads       8
 
 ###### Define the size and shape of the grid
