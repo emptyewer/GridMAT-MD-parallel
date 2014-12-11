@@ -13,8 +13,8 @@ num_frames              11
 num_lipid_types         2
 resname1                POPE
 atomname1               P
-resname2		        POPG
-atomname2		        P
+resname2                POPG
+atomname2               P
 solvent                 SOL
 ions               	    NA,CL
 number_of_threads       8
