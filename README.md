@@ -1,7 +1,7 @@
 GridMAT-MD-parallel
 ===================
 
-Algorithm to calculate area per lipid headgroup (APL) and bilayer thickness in molecular simulations of lipid bilayers
+A parallel algorithm to calculate area per lipid headgroup (APL) and bilayer thickness in molecular simulations of lipid bilayers
 
 This program is a parallelized version of the orginal GridMAT-MD developed by W. J. Allen, J. A. Lemkul and D. R. Bevan at Virginia Tech. The citation for the original publication is below.
 
